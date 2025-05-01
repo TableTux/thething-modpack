@@ -64,11 +64,6 @@ hash = "03bf4c83390893faab62e2122e9265712a721bd3cd8e0d603f5daddc2549bbd5"
 metafile = true
 
 [[files]]
-file = "mods/automodpack.pw.toml"
-hash = "cba3f2092bfd054f121db209527ecf14b64268233426791bc79335b6de828b13"
-metafile = true
-
-[[files]]
 file = "mods/balm.pw.toml"
 hash = "081fe633c2c73b0d5e37a81d3973502d563f5d545246fde0510a2004ece78f95"
 metafile = true
