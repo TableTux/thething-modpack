@@ -1,0 +1,13 @@
+name = "Elytra Trims"
+filename = "elytratrims-neoforge-3.5.8+1.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XpzGz7KD/versions/IPqZJnhD/elytratrims-neoforge-3.5.8%2B1.21.jar"
+hash-format = "sha512"
+hash = "25a1215d346ae4565c2206730eea3bf2b4bb0e68fa3e404f728b69fc4b3c3049e429d2a139b41afa4236b229256d60369816462a89b8d4ac47e5877bf175b53d"
+
+[update]
+[update.modrinth]
+mod-id = "XpzGz7KD"
+version = "IPqZJnhD"

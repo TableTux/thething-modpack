@@ -1,0 +1,13 @@
+name = "Functional Storage"
+filename = "functionalstorage-1.21.1-1.4.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/cO40ZIg3/versions/uAnCRFyL/functionalstorage-1.21.1-1.4.3.jar"
+hash-format = "sha512"
+hash = "41ae7b7113548849a6ab8b9ebe92d6b8266f4b2f66d2557d85e798362eb96c3a0895a2cd4a8ecb84f51ba23d939a1fb5484cb2e02faa5ead3dd0af39b410d019"
+
+[update]
+[update.modrinth]
+mod-id = "cO40ZIg3"
+version = "uAnCRFyL"

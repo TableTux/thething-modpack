@@ -1,0 +1,13 @@
+name = "More Immersive Wires"
+filename = "more-immersive-wires-1.21.1-1.1.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ekzqyEZL/versions/x9IYZgpu/more-immersive-wires-1.21.1-1.1.7.jar"
+hash-format = "sha512"
+hash = "41b187e2f635f14a1e1b6338d330ee2e571ca0910d74d600ec637e04a67203056b0c5d4103bc9b93a5608235d09b0ec67bd50ba82e7ce7eaef53e1cd676b8d0d"
+
+[update]
+[update.modrinth]
+mod-id = "ekzqyEZL"
+version = "x9IYZgpu"
