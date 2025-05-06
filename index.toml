@@ -1,12 +1,28 @@
 hash-format = "sha256"
 
 [[files]]
+file = "CreaTechAcademy (1).html"
+hash = "28915b419920f22c23ad619e77a5aa0b7bb9e2303460989fbcf9703ed84b8a30"
+
+[[files]]
+file = "clear.py"
+hash = "26960134d0f530baf85d4c78a4138b0dfa19b6c229a7a079d7e9936380d2e965"
+
+[[files]]
+file = "coso.html"
+hash = "5aa3a42e1f7991b61a323845cad9a27c1b92bc2000b79d3b5e600669cc1350e1"
+
+[[files]]
+file = "coso.txt"
+hash = "ad82019aa5f3877577579c60266382765fdde8ef4deb457331199c0416a5ea3b"
+
+[[files]]
 file = "main.py"
 hash = "226ac4c62b6c33373a0dcfa926558ec9dc1b98c2f87bd71d15bcdb1ffc05e5c8"
 
 [[files]]
-file = "modlist.md"
-hash = "858026bb8bed69bc3db51c1d6b818d2f813ca84e354a84d0d881bf4072dac8cb"
+file = "modlist.html"
+hash = "4332ef10241c8d7b6f73e2677238f28ef5602291972385954ed8821e9a3d9ef4"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -16,6 +32,26 @@ metafile = true
 [[files]]
 file = "mods/advancement-plaques.pw.toml"
 hash = "2b02594380f31aa857c89d296afb53bec67621b491956be09a54ab6845552e2a"
+metafile = true
+
+[[files]]
+file = "mods/ae2-jei-integration.pw.toml"
+hash = "0794a45bf4c6cf8c17aebca641c306a7a25334ecb654f959c55ab2c3e81bddd7"
+metafile = true
+
+[[files]]
+file = "mods/ae2-mega-things.pw.toml"
+hash = "e71b202da5d182dd538f92cddd23ca3d1018af33034c3b0a2a24dbdecc147e3e"
+metafile = true
+
+[[files]]
+file = "mods/ae2-qol-recipes.pw.toml"
+hash = "00d2d56c539760efac6b1b309b834d32b28c07177daf49f504a86e0c24a92811"
+metafile = true
+
+[[files]]
+file = "mods/ae2-things-forge.pw.toml"
+hash = "67b76e29b60a2869859d15a85ff2ba4377a0a21c9ad57f3213ec866605ca04c5"
 metafile = true
 
 [[files]]
@@ -41,6 +77,11 @@ metafile = true
 [[files]]
 file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
 hash = "3b54c67c1da77c1228c3e29d07ac323c033cdfb348cd8a3980866cf638ac476c"
+metafile = true
+
+[[files]]
+file = "mods/applied-energistics-2.pw.toml"
+hash = "c4023b300f64b7033e4388dec2847959a2970bc3e4a58c50d6fd057b3899ed02"
 metafile = true
 
 [[files]]
@@ -111,6 +152,11 @@ metafile = true
 [[files]]
 file = "mods/collective.pw.toml"
 hash = "3c77cfac6baca0b34f29f071d47aed281cf0a27c5284145fff9b1461c24e26f8"
+metafile = true
+
+[[files]]
+file = "mods/companion.pw.toml"
+hash = "53fc97728655e28c947fd68051b37e8ce99fc3374f4aff202c6669a8977ad817"
 metafile = true
 
 [[files]]
@@ -279,8 +325,13 @@ hash = "d88788a00e76a1c7489776cddff1e9179676e842a7cd9f04b59ebc9b3e40c7ac"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+hash = "548cf9b25748105c70af57d4f169f4f8ea9c47c1ec6ec9cae9cbe264bdf31754"
+metafile = true
+
+[[files]]
 file = "mods/guideme.pw.toml"
-hash = "038253569c11cb590a082a1e7d73da2a1a8dd4b9189e454034f5fc576ba61225"
+hash = "c41200c4c8965c7268a0d66a427e6ddb415fd89d7429400ff5fe66ac0521d69c"
 metafile = true
 
 [[files]]
@@ -345,7 +396,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "77b86ca843207273549875640b1c16254c2486e67127c37344c186b503da96ed"
+hash = "c344b0630eedfa7f8ed24e7cb916e49c231df456c40d20fc2b5fc0b675fb6517"
 metafile = true
 
 [[files]]
@@ -354,8 +405,13 @@ hash = "edab79d344e7fa6ebe870317b424d2a068a5ca1e734443832b245024effdd745"
 metafile = true
 
 [[files]]
+file = "mods/kiwi.pw.toml"
+hash = "817b1ab6014dc039d8bdd24a463f19ab6d341756f7d4274abcb111582620747e"
+metafile = true
+
+[[files]]
 file = "mods/kotlin-for-forge.pw.toml"
-hash = "0033c5a00c46d5d7b6cf77b19fa76ce5c78a613f3128dcadb3588fa5841ae489"
+hash = "5bc824e369b9a085c7381f768356ce19c062d1b81e2302149684df62c60a16c8"
 metafile = true
 
 [[files]]
@@ -391,6 +447,11 @@ metafile = true
 [[files]]
 file = "mods/man-of-many-planes.pw.toml"
 hash = "d887c005b64a36e1ab515d2fc6a35531b665ff7f4964b7068a01d3a136925641"
+metafile = true
+
+[[files]]
+file = "mods/mega-cells.pw.toml"
+hash = "218af8baab33ec0f3c782b5005d0a7094d9cec433f6ddc4ffc90ea6abc64d68e"
 metafile = true
 
 [[files]]
@@ -449,6 +510,16 @@ hash = "94828636fa5e8b258a60049250c84ba8c5a0310a98bc1530fc02c351a06aab8b"
 metafile = true
 
 [[files]]
+file = "mods/oritech.pw.toml"
+hash = "9ec75e47937b71a44a2603e395bc4b461fd7e4a84e2953ce6f4e7c267c3f1cd8"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "b30bf3e10fdb43cb451091d4cc8ff88081895686c492c1bbff50ce0c74a3e85b"
+metafile = true
+
+[[files]]
 file = "mods/perception.pw.toml"
 hash = "4e499d1525a77e4cfecc8d7b1aa57133fc140d0081eb6339aa607485a1cca89d"
 metafile = true
@@ -484,6 +555,11 @@ hash = "8f31049728cb784a0216ddbfa3de06751b2a631a3907c84c2d7b2428466d5fc3"
 metafile = true
 
 [[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "2237772650b4c2efc5b436a7468f92a548cee8d8f8fe648340a3a1d30544d903"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "a1fb713df668ed21dda0602e99cb23b991c8faff841e130d7aae46258c3d6a45"
 metafile = true
@@ -501,6 +577,11 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
 hash = "4a0635f1a5dc2397b7367ecd8d1a7d5968d6b5ac3d81b2cf7988a45594e77cd9"
+metafile = true
+
+[[files]]
+file = "mods/stitch.pw.toml"
+hash = "87efe123ee3fe0133a4e951f110a98a32b16068a3033f2c3a0dbed574ff48cf0"
 metafile = true
 
 [[files]]
