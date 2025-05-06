@@ -1,0 +1,13 @@
+name = "Mining Utility"
+filename = "miningutility-neoforge-2.0.1+1.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/wO2BX7v1/versions/xQjq2vxe/miningutility-neoforge-2.0.1%2B1.21.jar"
+hash-format = "sha512"
+hash = "ee51749b693f16f48bb56956dd1b0e097288134472f97b8788589419dfee4c613303a5a8a9c12d150a891f15e7f352a876e2fb810d8edb4fceb38976f2cbed3a"
+
+[update]
+[update.modrinth]
+mod-id = "wO2BX7v1"
+version = "xQjq2vxe"
