@@ -159,6 +159,11 @@ hash = "0460af8d5a94ab99cb64f2e153f31fc259b28d56cbd51098750235cfbe1cb608"
 metafile = true
 
 [[files]]
+file = "mods/create-railways-navigator.pw.toml"
+hash = "564a7376ded80e784efaded6b7268156828d8ecc6fc005ebea436366a612175c"
+metafile = true
+
+[[files]]
 file = "mods/create-renewable-brass.pw.toml"
 hash = "3b00e9a7c19aff6d771ed521b93f93539ebfab424612267db1824322c8ecff15"
 metafile = true
