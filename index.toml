@@ -1,26 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "CreaTechAcademy (1).html"
-hash = "28915b419920f22c23ad619e77a5aa0b7bb9e2303460989fbcf9703ed84b8a30"
-
-[[files]]
-file = "clear.py"
-hash = "efe60487adc1fbc99d6071ef9d45cd72794ff676f7d8d69b62db31d84fabf32f"
-
-[[files]]
-file = "coso.html"
-hash = "0ae35dce1eb97358fe7fe4e3544ee4715ffcd6e695ad8ffb317dcb69a1466f18"
-
-[[files]]
-file = "coso.txt"
-hash = "ad82019aa5f3877577579c60266382765fdde8ef4deb457331199c0416a5ea3b"
-
-[[files]]
-file = "main.py"
-hash = "226ac4c62b6c33373a0dcfa926558ec9dc1b98c2f87bd71d15bcdb1ffc05e5c8"
-
-[[files]]
 file = "modlist.html"
 hash = "b14bc577fb870b83087a7fa3add7595bcbe96d1327a6eae75ec0cbd18b89df72"
 
