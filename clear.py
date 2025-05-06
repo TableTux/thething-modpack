@@ -1,6 +1,4 @@
-import requests as rs
 from bs4 import BeautifulSoup
-import urllib.request
 
 matches = []
 linestoclear = []
@@ -24,11 +22,3 @@ with open('coso.html', 'w') as file:
                 break
         if toWrite:
             file.write(line)
-        
-                
-with open('coso.html', 'r') as file:
-    soup = BeautifulSoup(file, 'html.parser')
-    for link in soup.find_all('a'):
-        badurl = link.get('href')
-        #res = rs.head(badurl, allow_redirects=True)
-        print(link.string)
