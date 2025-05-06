@@ -125,6 +125,11 @@ hash = "c9aca350959a8936b054c7164fb55d789ab1e0d38cff2af48b78f70af2bc0c6d"
 metafile = true
 
 [[files]]
+file = "mods/blockui.pw.toml"
+hash = "f4015f21ab6f4c3dacbf58427c1216a01dd497dce7334ae427b41340690b6b5b"
+metafile = true
+
+[[files]]
 file = "mods/bookshelf-lib.pw.toml"
 hash = "71434caad33d734bcafdb976be3f7c6e90cea1ac13c9ebb292d1b96562b2588b"
 metafile = true
@@ -310,6 +315,11 @@ hash = "3a191ec81bcc9d5e55193d4836abbd8d3b74ca2f391c9f6e73237ab01880e482"
 metafile = true
 
 [[files]]
+file = "mods/domum-ornamentum.pw.toml"
+hash = "757d82d85e87524e67e5f86a0e662b1b1263846d73d98f4da098730ee499ecdf"
+metafile = true
+
+[[files]]
 file = "mods/dripsounds.pw.toml"
 hash = "55d8b05d23120a823f9c25322722c47e6d30f18ecafce32c295cbf55b8d55ce0"
 metafile = true
@@ -377,6 +387,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "05d96d5b17399f048469ff4b44451eb8d99cc7a2a075ff55718c397cb508b0c2"
+metafile = true
+
+[[files]]
+file = "mods/flowing-fluids.pw.toml"
+hash = "619e04049d5660f1dac09432d9cd8005cad3717db13eedeb2fad138e18f99bc7"
 metafile = true
 
 [[files]]
@@ -476,7 +491,12 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "652900870d343dda5683456934ca76bf176ea54da73d9883d8a13c9b3cae2fac"
+hash = "e64ecb726e09cec46a58f44d73fcf9a9c6634ac2c08e0224d3c24ed95c053b29"
+metafile = true
+
+[[files]]
+file = "mods/jadecolonies.pw.toml"
+hash = "94f69e149cc3604cb09197de52e6d07731d56cca3d10388ccb9dbfe8b36ee76e"
 metafile = true
 
 [[files]]
@@ -585,6 +605,11 @@ hash = "f376fde0de0f58f52d9e49617907549bfc833979a9c21e8668839bae63b822f2"
 metafile = true
 
 [[files]]
+file = "mods/minecolonies.pw.toml"
+hash = "fba9c1c9c27cdd4f6d9481f7733f068100a67812738c4db38c4208b28d3606b8"
+metafile = true
+
+[[files]]
 file = "mods/mini-mob-trophy.pw.toml"
 hash = "7fc45370931e1a49f596c9633dc573f00e3d4713c27c72bff0a5eb20e6b65a0d"
 metafile = true
@@ -632,6 +657,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "6bc414cc0f2d4c078fe83f384d786343f701f371d657c5279b5b0df1595804bd"
+metafile = true
+
+[[files]]
+file = "mods/multi-piston.pw.toml"
+hash = "1dc16fe98446b86b94a8bfa08f07accf11a7b07fc39730b2e7b32560dcaf1c45"
 metafile = true
 
 [[files]]
@@ -800,6 +830,16 @@ hash = "518aa8c46e3910462d97ad31621c07f927a22594ac4e9682face02c36ee1a88c"
 metafile = true
 
 [[files]]
+file = "mods/structurize.pw.toml"
+hash = "2061557bfc521cf474fd51239229d5fd619097038b73d08de2208fdd4f13d729"
+metafile = true
+
+[[files]]
+file = "mods/stylecolonies.pw.toml"
+hash = "6a797d14f96dd22b92ad2eb9280b143563e18407489405175f183cf3587d7372"
+metafile = true
+
+[[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
 hash = "62bd7012826fdcccf17a089055be67f87fb7335c88e73efc52bc9e51a1bf3188"
 metafile = true
@@ -832,6 +872,11 @@ metafile = true
 [[files]]
 file = "mods/toms-storage.pw.toml"
 hash = "33eba62d133ca3ba2113c1cc8a100667ad81c46d5efb9dbb1fdf8f0f57be4393"
+metafile = true
+
+[[files]]
+file = "mods/towntalk.pw.toml"
+hash = "a7074e8e499d34f5ce633dbd33f818e376dd1941ec5b1d97a33acd019df69b5a"
 metafile = true
 
 [[files]]
