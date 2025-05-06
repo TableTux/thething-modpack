@@ -46,7 +46,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2.pw.toml"
-hash = "58d049e9ebbb9cf6e98f25f9d095a17a26a2dfc7971dd1400199b70f5339ceb7"
+hash = "b4160f327578ee994907c217b8de09e2c4377b5735b12ad56d91cb1a08ddd62d"
 metafile = true
 
 [[files]]
@@ -156,7 +156,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "e806e6c5e09a74176fadf4d241ba5cb4915250011f29a47ce6a0039784e9de17"
+hash = "144ba9e7889fad8c466f9632a1a083246eab116b919549c8c2c374f59334f2ae"
 metafile = true
 
 [[files]]
@@ -236,12 +236,12 @@ metafile = true
 
 [[files]]
 file = "mods/create-enchantment-industry.pw.toml"
-hash = "551af8e8696fc14390300e7847145176f8335f36365e44eb59732c2bf768d36f"
+hash = "2a8f7e581f05e7d2758467a8206fc46c52263f14b94d8e9814be750a907cbfcf"
 metafile = true
 
 [[files]]
 file = "mods/create-framed.pw.toml"
-hash = "8acd0b01430d2bd713976ddda8d7b963877350ab6930dc6da8c5168720dfe3ab"
+hash = "bed535a9a5636585ef25b31038ebdb6cad1967e4f1e1de8bcb773bc6c569ad2a"
 metafile = true
 
 [[files]]
@@ -256,7 +256,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-mobile-packages.pw.toml"
-hash = "1daf3fdc174c82ba74be2cf09872f4c064908850580c27570060cf77dffbee6c"
+hash = "d806441136ddd9679dbcab808e07f35fcc98a36f0a124d026d947ac2218841b9"
 metafile = true
 
 [[files]]
@@ -321,7 +321,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "cd9c8153bf903c0f86cfa8e91d8fe3d715ce717ca21b02f2e09253910ca2fe0b"
+hash = "9709fcd0b100ec7848e853efc0c9f4452537c2de2665e09ad8e7fb94b8fe4b8e"
 metafile = true
 
 [[files]]
@@ -441,7 +441,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-aircraft.pw.toml"
-hash = "4671a699d5d182d4ac4ddaa4185bd953aeae56f1685491715ed3e2ccc86f1631"
+hash = "80b8f5ac81313635f3829c0bfc1be0c82190cd5eeb2bd0f74039548f5d300ecc"
 metafile = true
 
 [[files]]
@@ -506,7 +506,7 @@ metafile = true
 
 [[files]]
 file = "mods/justenoughbreeding.pw.toml"
-hash = "edab79d344e7fa6ebe870317b424d2a068a5ca1e734443832b245024effdd745"
+hash = "46ce4e67cf8f959444911e837faa91f327764c38ade55ee42ebb56995fd0b121"
 metafile = true
 
 [[files]]
@@ -650,6 +650,11 @@ hash = "d424a9260ef51bc102e56f0423d91dfabb739ccca8a86eb1c450ea631b739280"
 metafile = true
 
 [[files]]
+file = "mods/not-interested.pw.toml"
+hash = "c6dbeba3bd98c7fb83f7e4020bae717fa0be045c205eb08b0f8e31981382d9ac"
+metafile = true
+
+[[files]]
 file = "mods/notenoughcrashes.pw.toml"
 hash = "72023e59251facb8737fb521e91148d10cc91f09e25c513314b1e0f39ea86d44"
 metafile = true
@@ -706,7 +711,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "9c454f3b26fea7aa3e04b6edecf5707a74927dcf63715ffa01b248bd9ffefc41"
+hash = "b27fedf73ce2b829db06bf18fea5afd33f0a001b75465301c7f5bafe7e3c04d8"
 metafile = true
 
 [[files]]
@@ -781,7 +786,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "4a0635f1a5dc2397b7367ecd8d1a7d5968d6b5ac3d81b2cf7988a45594e77cd9"
+hash = "303d0373d4e5568225e6da3ff61786bb0225d99636eed4b75d46f3dc9f4d585a"
 metafile = true
 
 [[files]]
@@ -831,7 +836,7 @@ metafile = true
 
 [[files]]
 file = "mods/trade-cycling.pw.toml"
-hash = "d8feca2b5817cbbf11126562ab22f7b2804262b7f827f58a594b25067f23c362"
+hash = "1ce973c231d9d6a7e788f5a2eb0797a0f5b8beef318d70f97931309ff7ef9abe"
 metafile = true
 
 [[files]]
