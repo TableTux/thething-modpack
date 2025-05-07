@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "modlist.html"
-hash = "b14bc577fb870b83087a7fa3add7595bcbe96d1327a6eae75ec0cbd18b89df72"
-
-[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "a34cb55f2a55e2a4e47d6954948387105c14f0d0f2e800d003e1e7ec19c2904f"
 metafile = true
@@ -67,11 +63,6 @@ metafile = true
 [[files]]
 file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
 hash = "3b54c67c1da77c1228c3e29d07ac323c033cdfb348cd8a3980866cf638ac476c"
-metafile = true
-
-[[files]]
-file = "mods/applied-energistics-2.pw.toml"
-hash = "c4023b300f64b7033e4388dec2847959a2970bc3e4a58c50d6fd057b3899ed02"
 metafile = true
 
 [[files]]
@@ -502,11 +493,6 @@ metafile = true
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "e64ecb726e09cec46a58f44d73fcf9a9c6634ac2c08e0224d3c24ed95c053b29"
-metafile = true
-
-[[files]]
-file = "mods/jadecolonies.pw.toml"
-hash = "94f69e149cc3604cb09197de52e6d07731d56cca3d10388ccb9dbfe8b36ee76e"
 metafile = true
 
 [[files]]
