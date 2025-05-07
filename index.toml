@@ -158,6 +158,11 @@ hash = "64123af5ab8b822c26eca70cdecc679838bd7f6a963a8c63c6682ee578cd2322"
 metafile = true
 
 [[files]]
+file = "mods/akashic-tome.pw.toml"
+hash = "08f8c21e553fe134333ead574cac41030b73f85ad3a3f7701ec21312dc33b400"
+metafile = true
+
+[[files]]
 file = "mods/amendments.pw.toml"
 hash = "1fa5075c1ebd310416d705674d6ae90975fa8971ce6cf04478f548a18c58d0da"
 metafile = true
@@ -230,6 +235,11 @@ metafile = true
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
 hash = "71434caad33d734bcafdb976be3f7c6e90cea1ac13c9ebb292d1b96562b2588b"
+metafile = true
+
+[[files]]
+file = "mods/bucketlib.pw.toml"
+hash = "82dd00b86d2b088908060727124fca8834dab847d7d7b7fe4168f2fd1fc73435"
 metafile = true
 
 [[files]]
@@ -453,6 +463,11 @@ hash = "0b380e24e46e328c362bda7cff892c5b0e471789ca8c429fd2a588eaf63b8712"
 metafile = true
 
 [[files]]
+file = "mods/enderio.pw.toml"
+hash = "66c8f8fe8c3a84a171e3c39649271a6da8b6b7c0205dff878f1fe4406bcef888"
+metafile = true
+
+[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "3a4e194e945214cc457178f48e65b9ab6a8201b6d15b9736cd673324b70b6edd"
 metafile = true
@@ -584,7 +599,7 @@ metafile = true
 
 [[files]]
 file = "mods/guideme.pw.toml"
-hash = "c41200c4c8965c7268a0d66a427e6ddb415fd89d7429400ff5fe66ac0521d69c"
+hash = "3d0defaa05f249638a4f43b84ae20294409b90b9f68b36e7a9aa771997129229"
 metafile = true
 
 [[files]]
@@ -610,6 +625,11 @@ metafile = true
 [[files]]
 file = "mods/immersiveengineering.pw.toml"
 hash = "d8345f3bb5d083ea7cc01cbf2b12705fcff76d0a13de3db921bbeaf9f8d6137a"
+metafile = true
+
+[[files]]
+file = "mods/industrial-foregoing.pw.toml"
+hash = "5d86663d03b8bac7c5d266df2334ad5176d110b1a15b136c61287f97c4312ccb"
 metafile = true
 
 [[files]]
@@ -863,6 +883,11 @@ hash = "74c4147419e31244a156285fc030ca773e7f35c69a04ad15cc5af68aa4db72b5"
 metafile = true
 
 [[files]]
+file = "mods/powah.pw.toml"
+hash = "de82ac7d16daec3e76e8f521cd72b73668dd6bb82000b0065e84e3d99ee8f8dc"
+metafile = true
+
+[[files]]
 file = "mods/prickle.pw.toml"
 hash = "7750bf1c0a66c843a06f07bd0ed7157d14ff0958e19426aadaed6ecf3034af65"
 metafile = true
@@ -1025,6 +1050,16 @@ metafile = true
 [[files]]
 file = "mods/wi-zoom.pw.toml"
 hash = "9ec08d474d8c886bc0719b2d27d9b5f1893bc8d4baceb0b78824e4a231e7968b"
+metafile = true
+
+[[files]]
+file = "mods/wooden-bucket.pw.toml"
+hash = "e5dfb22b6f97fa8a090ecbc10321360940df238ecbae928e1b5d531f059ee54b"
+metafile = true
+
+[[files]]
+file = "mods/wooden-shears.pw.toml"
+hash = "bf5863fad6010d995c718c4b89e119aee7726b387d508bcfe97ba104d84a1d60"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "BucketLib"
+filename = "bucketlib-neoforge-1.21-4.1.3.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DItE655o/versions/HwFI8Fub/bucketlib-neoforge-1.21-4.1.3.0.jar"
+hash-format = "sha512"
+hash = "4c8dcb81b2bc96225c84519ce0d5f875d56abde65c74dcfa2a72f6f61e78c01605ec0aa81339b54613b2c8c840a49be542bfdc5c379bdc794351f0cf66673dc8"
+
+[update]
+[update.modrinth]
+mod-id = "DItE655o"
+version = "HwFI8Fub"

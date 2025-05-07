@@ -1,0 +1,13 @@
+name = "Wooden Bucket"
+filename = "woodenbucket-neoforge-1.21-4.1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xsNAEIke/versions/tJ81kBQy/woodenbucket-neoforge-1.21-4.1.1.0.jar"
+hash-format = "sha512"
+hash = "b167ae8b9fcc4a9d0634e0e7c05f5794484bc979ac4f1b777edd941f0cfb99275e5b1baa1051e99421f1172f876954a4cc44398c34d5c1f5407ba0a6be80638b"
+
+[update]
+[update.modrinth]
+mod-id = "xsNAEIke"
+version = "tJ81kBQy"
