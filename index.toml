@@ -41,11 +41,6 @@ hash = "67b76e29b60a2869859d15a85ff2ba4377a0a21c9ad57f3213ec866605ca04c5"
 metafile = true
 
 [[files]]
-file = "mods/ae2.pw.toml"
-hash = "b4160f327578ee994907c217b8de09e2c4377b5735b12ad56d91cb1a08ddd62d"
-metafile = true
-
-[[files]]
 file = "mods/aeinfinitybooster.pw.toml"
 hash = "64123af5ab8b822c26eca70cdecc679838bd7f6a963a8c63c6682ee578cd2322"
 metafile = true
@@ -63,6 +58,11 @@ metafile = true
 [[files]]
 file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
 hash = "3b54c67c1da77c1228c3e29d07ac323c033cdfb348cd8a3980866cf638ac476c"
+metafile = true
+
+[[files]]
+file = "mods/applied-energistics-2.pw.toml"
+hash = "c4023b300f64b7033e4388dec2847959a2970bc3e4a58c50d6fd057b3899ed02"
 metafile = true
 
 [[files]]
