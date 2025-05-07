@@ -308,6 +308,11 @@ hash = "0a4d0034c5a1379d5aa57c0a104aaa2adbb98f1e2b89d4ec0b7ef68df2e16a1a"
 metafile = true
 
 [[files]]
+file = "mods/crafting-on-a-stick.pw.toml"
+hash = "d69ef8c4975dbafb2703abfd81932e21dd9266ab5640a07f8563ffed1caf243b"
+metafile = true
+
+[[files]]
 file = "mods/crafttweaker.pw.toml"
 hash = "6028b294b93f33017ffb8797032b96dc24a9e5c23a6cc11041693f25d9639d9e"
 metafile = true
