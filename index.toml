@@ -195,6 +195,16 @@ hash = "d362a013bef0c4e8ade6bf77e97478833902210cc70ad7d133aece3f1c3e37a6"
 metafile = true
 
 [[files]]
+file = "mods/connector-extras.pw.toml"
+hash = "52e2cb54ee2933bf00e9b7886f47938a2dce1bf998293be2b38552083ffa5f9a"
+metafile = true
+
+[[files]]
+file = "mods/connector.pw.toml"
+hash = "0a4d0034c5a1379d5aa57c0a104aaa2adbb98f1e2b89d4ec0b7ef68df2e16a1a"
+metafile = true
+
+[[files]]
 file = "mods/crafttweaker.pw.toml"
 hash = "6028b294b93f33017ffb8797032b96dc24a9e5c23a6cc11041693f25d9639d9e"
 metafile = true
@@ -392,6 +402,11 @@ metafile = true
 [[files]]
 file = "mods/flowing-fluids.pw.toml"
 hash = "619e04049d5660f1dac09432d9cd8005cad3717db13eedeb2fad138e18f99bc7"
+metafile = true
+
+[[files]]
+file = "mods/forgified-fabric-api.pw.toml"
+hash = "cb56550a957dd44cab4f9102aa588cd22421cd6b4099a03ac7b1b167c23c0f13"
 metafile = true
 
 [[files]]
