@@ -486,16 +486,6 @@ hash = "9163b758163681f75e2048c798be880c50392684b127d7d87f42ea588deceb62"
 metafile = true
 
 [[files]]
-file = "mods/jade-addons-forge.pw.toml"
-hash = "8cd8400cb4e2c5ba60c8a359a7b6ff501078d2056eab0aba7f6b0ac77b7a0694"
-metafile = true
-
-[[files]]
-file = "mods/jade.pw.toml"
-hash = "e64ecb726e09cec46a58f44d73fcf9a9c6634ac2c08e0224d3c24ed95c053b29"
-metafile = true
-
-[[files]]
 file = "mods/jamlib.pw.toml"
 hash = "888492de9de2384ae9b0b427624be6b004bc5882176d2c71d05d948d06cdb826"
 metafile = true
@@ -523,11 +513,6 @@ metafile = true
 [[files]]
 file = "mods/justenoughbreeding.pw.toml"
 hash = "46ce4e67cf8f959444911e837faa91f327764c38ade55ee42ebb56995fd0b121"
-metafile = true
-
-[[files]]
-file = "mods/kiwi.pw.toml"
-hash = "53d3a025df54cea0227d74a38ba980c160568a29806c0996217b1712979ef679"
 metafile = true
 
 [[files]]
