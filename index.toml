@@ -203,6 +203,11 @@ hash = "03bf4c83390893faab62e2122e9265712a721bd3cd8e0d603f5daddc2549bbd5"
 metafile = true
 
 [[files]]
+file = "mods/badpackets.pw.toml"
+hash = "e53392cab6393798f95c4ad012dcbd9a5a55d02ef2861ac0c23bee972686dddc"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "081fe633c2c73b0d5e37a81d3973502d563f5d545246fde0510a2004ece78f95"
 metafile = true
@@ -1080,6 +1085,11 @@ metafile = true
 [[files]]
 file = "mods/wooden-shears.pw.toml"
 hash = "bf5863fad6010d995c718c4b89e119aee7726b387d508bcfe97ba104d84a1d60"
+metafile = true
+
+[[files]]
+file = "mods/wthit.pw.toml"
+hash = "5afffd42338cae5d02b1884cc4192d7241ac66beaddd1e9ed9616e5eaa27ac5f"
 metafile = true
 
 [[files]]
