@@ -171,11 +171,6 @@ hash = "3c77cfac6baca0b34f29f071d47aed281cf0a27c5284145fff9b1461c24e26f8"
 metafile = true
 
 [[files]]
-file = "mods/companion.pw.toml"
-hash = "53fc97728655e28c947fd68051b37e8ce99fc3374f4aff202c6669a8977ad817"
-metafile = true
-
-[[files]]
 file = "mods/configured.pw.toml"
 hash = "d362a013bef0c4e8ade6bf77e97478833902210cc70ad7d133aece3f1c3e37a6"
 metafile = true
