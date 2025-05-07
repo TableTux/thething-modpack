@@ -1,6 +1,118 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/ftbquests/quests/chapter_groups.snbt"
+hash = "78b3ab3cbb356c28b6b32df65c23634791bda59b3269d90b9d89d9c6d5251d9f"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/actually_add.snbt"
+hash = "1debfbd1888786d3ed4eb14d6687be69aa382d22cfd9d0ed395cfe7ea0d96132"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/create.snbt"
+hash = "269159e5c41deb8ee38b9dca51727b82518413fbc18dc139ee263745349c4b01"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/ender_io.snbt"
+hash = "85efeb19c1a595dc47c09ee269e419d4c6cf2f5958e55b9a75db039c5b937c1d"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/energy.snbt"
+hash = "969c29506b7bfbba9afd0f41acd3428f66facf3c9bcb35195b11edcf56b2c43d"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/farming.snbt"
+hash = "04247c2e8856cd964849749693f010dba833b84e1530c6f66959a16674aa82a9"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/food.snbt"
+hash = "ec13f2ae7dc090918e7464a88793c7244fc1e7f5ea622e124e447557ce061b26"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/grinding_mob.snbt"
+hash = "dd6a40c5fa09a7427a979cef2968aa6ea6137cc2d9560ac67a28a1aa2e824706"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/hostile_network.snbt"
+hash = "e965b332201e669d1e4ed8a9b04fb6e1f1e7b205a8fccdaf6669315b8d19fce5"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/immersive_eng.snbt"
+hash = "bc75c4d8db7c3ad33ccc8a261f42695dd62bd1c111714140e31d5ac4709ef201"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/industrial_fore.snbt"
+hash = "f0d4d9e20c502db07a32deef6c780c4a645f51db94cecd66bca70989222d0100"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/intro.snbt"
+hash = "cab606b4370729d4d69de2231e806204ac4c92861a5436a5e085b05ddaec3680"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/le_quest.snbt"
+hash = "cdc012493727fcfe75bb230b59ce3d7de0c33d5c2ac7de79016a5510619b297e"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/mekanism.snbt"
+hash = "83f7a99f957927664a78996eaf5ba74708b8070d485e197364220b3e77f5ebbe"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/mining.snbt"
+hash = "4c803d68156419fe6f536c68714081a019cb539de52eabe4d6d0292034b2a672"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/ore_processing.snbt"
+hash = "f521affef88a66d2da93f2b7e5283e5bc2d6b711982240ee75c35b1207e08a2d"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/oritech.snbt"
+hash = "27d1044efb4ea0f712525c2abb8e419bbee947221d7965a2af4a9be4d547c093"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/pneumaticraft.snbt"
+hash = "a47bede6fe04d436a88a13f9196a28004150aeba9c86477e4b848ff727765ae2"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/powah.snbt"
+hash = "ff2e910fc8a7026bf914bd77dbd35e8e96e332168b82469d0ee30757eac6c6c0"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/refined_storage.snbt"
+hash = "d4f550fc4f7d484760f8cb42b9471aecae9045014ad83dd1869fcd3b65e8b929"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/storage.snbt"
+hash = "dedcdcc95d6b4baedb578f926a8e54704edca014ea3f839f89fde629bb1817a6"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/tips.snbt"
+hash = "6d1b6d17041df0f3a92cb08b06b641b4663fc1dd7f7ee0e768083867c98b11c3"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/utility.snbt"
+hash = "82a6e221244e87db5f336b567c0b145c7daa709599a9e385566ea9148a3ccd9b"
+
+[[files]]
+file = "config/ftbquests/quests/data.snbt"
+hash = "b45a9c85f8414783e3055614c94d3517e89fa2e813fca76e5db0edd0e538e879"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us.snbt"
+hash = "2ec2a8ac33afdf4914dc8a392f99e6fc716976a57b6a1104e9015d8a9d447453"
+
+[[files]]
+file = "config/ftbquests/quests/reward_tables/1161C0ABCD88C7C3.snbt"
+hash = "ab888d0cfaa0af572a54b970bd314f93edc7413668600e78ac1465fc5473defa"
+
+[[files]]
+file = "config/ftbquests/quests/reward_tables/2E6EABAE17A9D842.snbt"
+hash = "a2b54ebc86ef0e4ee02ae8586e5ba9572f140108a14ea75457123f9597f84668"
+
+[[files]]
+file = "config/ftbquests/quests/reward_tables/317D45D3C953414E.snbt"
+hash = "4dd7fd339efaf5b01e44f5f02f63686b75f57cdc52ef183c2dbbf23ea0809e4e"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "a34cb55f2a55e2a4e47d6954948387105c14f0d0f2e800d003e1e7ec19c2904f"
 metafile = true
@@ -72,7 +184,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
+hash = "6d3a1c92eee4dd671253c41ec000ae48064a33c45263d6adce5cad466395169d"
 metafile = true
 
 [[files]]
@@ -403,6 +515,41 @@ metafile = true
 [[files]]
 file = "mods/freecam.pw.toml"
 hash = "184c6768f11e0c33c22c104397ad559c5b9337c709d1d05c8e9c93891dcddaee"
+metafile = true
+
+[[files]]
+file = "mods/ftb-backups-2.pw.toml"
+hash = "2a75b3fb887f2b973ce82a1881ac811eea35dfe194d4e321f3e2565815e94448"
+metafile = true
+
+[[files]]
+file = "mods/ftb-filter-system.pw.toml"
+hash = "f0b3c0562187df6d041210d8e494a43d892c14d313b26e32c28dfe3010b88be5"
+metafile = true
+
+[[files]]
+file = "mods/ftb-library-forge.pw.toml"
+hash = "a4f2d610c81a2696b9a4a2ef9c569ec2caf1dd615c78fd70f73f91ad3a849c2a"
+metafile = true
+
+[[files]]
+file = "mods/ftb-quests-forge.pw.toml"
+hash = "8ee145365be521b53878ecfa8f50ece4bb826106b22c595167f31cfc18e314bd"
+metafile = true
+
+[[files]]
+file = "mods/ftb-teams-forge.pw.toml"
+hash = "38d1ce888e383fb1bd1d3648d0ee26b643a697d3ac91e7fdb144cad3f9f55748"
+metafile = true
+
+[[files]]
+file = "mods/ftb-ultimine-forge.pw.toml"
+hash = "3820c5e6b19737c8440ed1f599367299694045abac139e3dfbed54ba0dd858ae"
+metafile = true
+
+[[files]]
+file = "mods/ftb-xmod-compat.pw.toml"
+hash = "a0861e228ee5620c0ed0a2615db8732e1e29b3e4da0575528e892bd3d63fb698"
 metafile = true
 
 [[files]]
