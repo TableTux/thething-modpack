@@ -345,6 +345,11 @@ hash = "e3a7aed56a1b54d7977cb0205011a01743e262d07946d8c6aaea3b3718a68791"
 metafile = true
 
 [[files]]
+file = "mods/emi.pw.toml"
+hash = "d3c9b48d7caa2ed964e5d1a4dab1da5655c63f0a7e4a59231c4369be7ffc30e1"
+metafile = true
+
+[[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "0b380e24e46e328c362bda7cff892c5b0e471789ca8c429fd2a588eaf63b8712"
 metafile = true
