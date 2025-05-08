@@ -1,13 +1,13 @@
 name = "Immersive Engineering"
-filename = "ImmersiveEngineering-1.21.1-12.2.0-187.jar"
+filename = "ImmersiveEngineering-1.21.1-12.3.0-188.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/tIm2nV03/versions/7uBp7xUp/ImmersiveEngineering-1.21.1-12.2.0-187.jar"
+url = "https://cdn.modrinth.com/data/tIm2nV03/versions/AqijsV5Y/ImmersiveEngineering-1.21.1-12.3.0-188.jar"
 hash-format = "sha512"
-hash = "7cdc439dec02da5910331a1d3f8d092ff0e323af35356b0ff3ab03dcb33bb10cc0481a3e2a3205d24533387b84c69c8328485f8a7ac7d7ce2052ed583a2a6d67"
+hash = "08df200d8598b8f19c72ad8c45283aea77a26408873f95869567a479c7c93803d1f1a5993d46685ecf355555da256dc54807c1da4ae58ac124ae2cee8cdb617d"
 
 [update]
 [update.modrinth]
 mod-id = "tIm2nV03"
-version = "7uBp7xUp"
+version = "AqijsV5Y"
