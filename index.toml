@@ -158,8 +158,23 @@ hash = "64123af5ab8b822c26eca70cdecc679838bd7f6a963a8c63c6682ee578cd2322"
 metafile = true
 
 [[files]]
+file = "mods/ai-improvements.pw.toml"
+hash = "62611a2b798035390a280b158563cfa590ab6f3465b77be46949839809dbe77f"
+metafile = true
+
+[[files]]
 file = "mods/akashic-tome.pw.toml"
 hash = "08f8c21e553fe134333ead574cac41030b73f85ad3a3f7701ec21312dc33b400"
+metafile = true
+
+[[files]]
+file = "mods/almanac.pw.toml"
+hash = "6b1de417a7fa934847bf002b75acd00d48637bb3484ea468799354b612658775"
+metafile = true
+
+[[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "18cf2b63d293ba0738c1073690fbd2c62305b161f76d346a551a66a9bbf8af32"
 metafile = true
 
 [[files]]
@@ -189,7 +204,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "6d3a1c92eee4dd671253c41ec000ae48064a33c45263d6adce5cad466395169d"
+hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
 metafile = true
 
 [[files]]
@@ -200,6 +215,11 @@ metafile = true
 [[files]]
 file = "mods/automobility.pw.toml"
 hash = "03bf4c83390893faab62e2122e9265712a721bd3cd8e0d603f5daddc2549bbd5"
+metafile = true
+
+[[files]]
+file = "mods/badoptimizations.pw.toml"
+hash = "b065522e317aa748182d8a549db134331c3dbb1486e78f4178e2a6d0299eac25"
 metafile = true
 
 [[files]]
@@ -598,6 +618,11 @@ hash = "9aafdd83668c1b903caf0245b0bf2de3bb743befaa78d39e74a95c9933d624ac"
 metafile = true
 
 [[files]]
+file = "mods/gputape.pw.toml"
+hash = "08481ad00651a7603f846d9bbb4285e995eee8d883e024ffead443524c640ee4"
+metafile = true
+
+[[files]]
 file = "mods/gravestone-mod.pw.toml"
 hash = "c34ad41e351235b1ca8e026e9fba9b3ee01c42e4933b060f0c870aac3014403a"
 metafile = true
@@ -699,7 +724,7 @@ metafile = true
 
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
-hash = "5bc824e369b9a085c7381f768356ce19c062d1b81e2302149684df62c60a16c8"
+hash = "0033c5a00c46d5d7b6cf77b19fa76ce5c78a613f3128dcadb3588fa5841ae489"
 metafile = true
 
 [[files]]
@@ -730,6 +755,11 @@ metafile = true
 [[files]]
 file = "mods/lithostitched.pw.toml"
 hash = "a859b2f6265d5160e052d00659e4bf2ec3e307856c707110caaf9f83439c9f2c"
+metafile = true
+
+[[files]]
+file = "mods/lmd.pw.toml"
+hash = "edc75ace846ae34c1cb4cf4a44106e1fb035b1eee0432765a716098c9a4b5823"
 metafile = true
 
 [[files]]
@@ -858,6 +888,11 @@ hash = "8c36ea5d11344480d76f8463f452c4ecc8ee59781667589ea2fd7b69f6ee86e8"
 metafile = true
 
 [[files]]
+file = "mods/observable.pw.toml"
+hash = "e672c3a4d4afe77afb6b36859f9a92e3e31395816193dde47ef97e4d04d8cbe9"
+metafile = true
+
+[[files]]
 file = "mods/octo-lib.pw.toml"
 hash = "94828636fa5e8b258a60049250c84ba8c5a0310a98bc1530fc02c351a06aab8b"
 metafile = true
@@ -865,6 +900,11 @@ metafile = true
 [[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "b30bf3e10fdb43cb451091d4cc8ff88081895686c492c1bbff50ce0c74a3e85b"
+metafile = true
+
+[[files]]
+file = "mods/packet-fixer.pw.toml"
+hash = "a4bb06abbfebf51a4dee16e88d8909c5582c3cfcaca848076cc7f63a25e0682b"
 metafile = true
 
 [[files]]
@@ -1000,6 +1040,11 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
 hash = "303d0373d4e5568225e6da3ff61786bb0225d99636eed4b75d46f3dc9f4d585a"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "6d9eaf43c14c66465e87bf03cc5cb5ecef57b3f2e8063c52f6332d33689d30be"
 metafile = true
 
 [[files]]
