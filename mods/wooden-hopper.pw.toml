@@ -1,0 +1,13 @@
+name = "Wooden Hopper"
+filename = "woodenhopper-neoforge-1.21.1-3.2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VOUy9bAs/versions/bJfe05J7/woodenhopper-neoforge-1.21.1-3.2.0.0.jar"
+hash-format = "sha512"
+hash = "f62885fa0e8e68818b1d63fda8832d9b9d2811d3c4ba6528566bff542d924557f532b0d14f696a35f6a1803e667e4052b20329916f547dac4c406c86fbafdc4c"
+
+[update]
+[update.modrinth]
+mod-id = "VOUy9bAs"
+version = "bJfe05J7"

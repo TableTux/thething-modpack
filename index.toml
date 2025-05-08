@@ -998,6 +998,11 @@ hash = "71c69a20c6325a3b41de44f5963e5d74afed3bc9d86eb29c5fd0352c72db38cd"
 metafile = true
 
 [[files]]
+file = "mods/searchables.pw.toml"
+hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
+metafile = true
+
+[[files]]
 file = "mods/shrink_.pw.toml"
 hash = "f8cff4c66e5e30ef5001f0f56ff1c0511d96c2be42f79cbd68bda7c20874f93d"
 metafile = true
@@ -1125,6 +1130,11 @@ metafile = true
 [[files]]
 file = "mods/wooden-bucket.pw.toml"
 hash = "e5dfb22b6f97fa8a090ecbc10321360940df238ecbae928e1b5d531f059ee54b"
+metafile = true
+
+[[files]]
+file = "mods/wooden-hopper.pw.toml"
+hash = "614d06320852f13033033c95f4a91e967ed91e731ca6a26dd09532ea7eda0259"
 metafile = true
 
 [[files]]
