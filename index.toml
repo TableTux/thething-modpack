@@ -1098,6 +1098,11 @@ hash = "04bb9ca65877a188b0fcbb7af6cadb0b1a9c97c0c2ce2be1ffec0520936fd067"
 metafile = true
 
 [[files]]
+file = "mods/terralith.pw.toml"
+hash = "da7ee99189ad35aac094919fe33cac647d98533b23c228f10d4811f08989e2b8"
+metafile = true
+
+[[files]]
 file = "mods/titanium.pw.toml"
 hash = "d0ed2ad1e912f3237da379d2d56e786d301858411959bc5f74abe428c8e38eb3"
 metafile = true
