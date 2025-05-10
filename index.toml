@@ -368,6 +368,11 @@ hash = "0a4d0034c5a1379d5aa57c0a104aaa2adbb98f1e2b89d4ec0b7ef68df2e16a1a"
 metafile = true
 
 [[files]]
+file = "mods/countereds-settlement-roads.pw.toml"
+hash = "f6d3195469e09e9d1d700658ca478bf3a2ce22186c82c0fb2a4a7237c1f0d4b6"
+metafile = true
+
+[[files]]
 file = "mods/crafting-on-a-stick.pw.toml"
 hash = "d69ef8c4975dbafb2703abfd81932e21dd9266ab5640a07f8563ffed1caf243b"
 metafile = true
@@ -604,7 +609,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
-hash = "d6b17baf1a20bd28b08cf0e3fd647fe5ba55484049e59f4579965a3c900af7a3"
+hash = "cb56550a957dd44cab4f9102aa588cd22421cd6b4099a03ac7b1b167c23c0f13"
 metafile = true
 
 [[files]]
@@ -705,6 +710,11 @@ metafile = true
 [[files]]
 file = "mods/guideme.pw.toml"
 hash = "3d0defaa05f249638a4f43b84ae20294409b90b9f68b36e7a9aa771997129229"
+metafile = true
+
+[[files]]
+file = "mods/horseman.pw.toml"
+hash = "f818a67f350f4821e17afd834e1cd3a4a56eec0bc440c603c88d4e41452a446e"
 metafile = true
 
 [[files]]
