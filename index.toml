@@ -118,6 +118,14 @@ hash = "a34cb55f2a55e2a4e47d6954948387105c14f0d0f2e800d003e1e7ec19c2904f"
 metafile = true
 
 [[files]]
+file = "mods/Actual Fishing-1.21.1-1.0.1-NeoForge.jar"
+hash = "69f4e0b5c5e1c0c8144ce0f439f6e72215d1d7ca7c10faf4f5e06a9bb68589b8"
+
+[[files]]
+file = "mods/Structory_1.21.x_v1.3.10.jar"
+hash = "50669b8ad823cb5fe5c29ca7acb357b711e32068f29623e5a3e49b84cbfc0f47"
+
+[[files]]
 file = "mods/accessories.pw.toml"
 hash = "03cb643aac647a345a61f69621c1100614bf2f680308ae14ff48547f4e053791"
 metafile = true
