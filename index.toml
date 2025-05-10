@@ -131,11 +131,6 @@ hash = "03cb643aac647a345a61f69621c1100614bf2f680308ae14ff48547f4e053791"
 metafile = true
 
 [[files]]
-file = "mods/actual-fishing.pw.toml"
-hash = "65d8bf987f44ea2baf261bc536e7a5dfdd4995a5fecba5fa0f6a9fe8a7178ba0"
-metafile = true
-
-[[files]]
 file = "mods/advancedae.pw.toml"
 hash = "da0bc30581b206aee85540014b8c498e88cdd4a63ae24eee7c968ef1fc5adb5a"
 metafile = true
@@ -1193,11 +1188,6 @@ metafile = true
 [[files]]
 file = "mods/storage-delight.pw.toml"
 hash = "518aa8c46e3910462d97ad31621c07f927a22594ac4e9682face02c36ee1a88c"
-metafile = true
-
-[[files]]
-file = "mods/structory.pw.toml"
-hash = "97f0df4c55858f545b95ccaff7e919fccbc26910555ea0cc6087553bc1ae5d61"
 metafile = true
 
 [[files]]
