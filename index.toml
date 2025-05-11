@@ -266,11 +266,6 @@ hash = "3f63afd3db4e5a076efe4438130898cd7d91782f2703f3f195470240081c3866"
 metafile = true
 
 [[files]]
-file = "mods/betterdays.pw.toml"
-hash = "de47f720da923c1c601bd184f40379e8dd6db17619ec8705c8f885b70b060bae"
-metafile = true
-
-[[files]]
 file = "mods/betterf3.pw.toml"
 hash = "c9aca350959a8936b054c7164fb55d789ab1e0d38cff2af48b78f70af2bc0c6d"
 metafile = true
@@ -541,6 +536,11 @@ hash = "9709fcd0b100ec7848e853efc0c9f4452537c2de2665e09ad8e7fb94b8fe4b8e"
 metafile = true
 
 [[files]]
+file = "mods/ecliptic-seasons.pw.toml"
+hash = "eb9bef29b43aa4f421282fb0a539506db0b94e0f97789579bedf66b72ddef5c3"
+metafile = true
+
+[[files]]
 file = "mods/elytra-trims.pw.toml"
 hash = "e3a7aed56a1b54d7977cb0205011a01743e262d07946d8c6aaea3b3718a68791"
 metafile = true
@@ -753,11 +753,6 @@ metafile = true
 [[files]]
 file = "mods/immersive-optimization.pw.toml"
 hash = "33b82ea2db30c5852e78f73f18f8608c0725f21f42f1ff6f50a9f7b85f29c0e9"
-metafile = true
-
-[[files]]
-file = "mods/immersive-snow.pw.toml"
-hash = "759ebd337fa67f558a204baef57041ca0392fd206c786a3e7643a5c6b27f4cee"
 metafile = true
 
 [[files]]
@@ -1123,11 +1118,6 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
-metafile = true
-
-[[files]]
-file = "mods/serene-seasons.pw.toml"
-hash = "73b1e4f6608fcd396acc3e4e7aa753d314c8810ef4caf831ed93d9932d93f896"
 metafile = true
 
 [[files]]
