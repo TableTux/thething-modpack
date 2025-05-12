@@ -936,11 +936,6 @@ hash = "08fb98e6f87f26ba667848a176ee1a4f4ad881dfc916fee6ec33f08a2245bd6d"
 metafile = true
 
 [[files]]
-file = "mods/monocle.pw.toml"
-hash = "c4152ee53b1cde0c6cf82d41e85e069f5c1877dba79f42d8fd56528586946f85"
-metafile = true
-
-[[files]]
 file = "mods/monsters-in-the-closet.pw.toml"
 hash = "6afce08213c05a33240e980e2b92032a6a3ad25d2a54ff8e9f56b5f00d46d45d"
 metafile = true
