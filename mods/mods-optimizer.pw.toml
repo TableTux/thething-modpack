@@ -1,0 +1,13 @@
+name = "Mods Optimizer"
+filename = "mods_optimizer-neoforge-1.21.1-4.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hlVtb1H0/versions/zU6K61I7/mods_optimizer-neoforge-1.21.1-4.0.0.jar"
+hash-format = "sha512"
+hash = "df41e847d3dcfbeb103277183cad856bed54596e931f8d9811aa3e05b55808771cbcd6e50465a3154bec3da8c45e049f2961c752c0286bd143d8d4f0410d3335"
+
+[update]
+[update.modrinth]
+mod-id = "hlVtb1H0"
+version = "zU6K61I7"

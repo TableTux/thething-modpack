@@ -386,6 +386,11 @@ hash = "a59457f6cd1ed326cf23b0baf95c71565cfd86033870ef1a559d18231bc2cab4"
 metafile = true
 
 [[files]]
+file = "mods/create-better-villagers.pw.toml"
+hash = "48a540eb4711dd6cca751e0fe647c983d942e6cdabeb80ba625a497d32db0e3f"
+metafile = true
+
+[[files]]
 file = "mods/create-cardboarded-conveynience.pw.toml"
 hash = "853a3c898d0beef5c3c1e51553a15e82aaf26d4783d603a9b2f5e9d789828bd7"
 metafile = true
@@ -408,6 +413,11 @@ metafile = true
 [[files]]
 file = "mods/create-deep-dark.pw.toml"
 hash = "c40e9a30bcd7bc7706166a20ce3009579e257840885509510e4a7ae3d82f6218"
+metafile = true
+
+[[files]]
+file = "mods/create-dimension,-steamworks-realm.pw.toml"
+hash = "c12118d8111a11cf72d6293adc8531013933bd4f600810d5a775f2dea9340e25"
 metafile = true
 
 [[files]]
@@ -918,6 +928,16 @@ metafile = true
 [[files]]
 file = "mods/modernfix.pw.toml"
 hash = "6d7ed1de895d198b2c4959b8f28f63cdcd68d24fda159be860db0c692dc54a3b"
+metafile = true
+
+[[files]]
+file = "mods/mods-optimizer.pw.toml"
+hash = "08fb98e6f87f26ba667848a176ee1a4f4ad881dfc916fee6ec33f08a2245bd6d"
+metafile = true
+
+[[files]]
+file = "mods/monocle.pw.toml"
+hash = "c4152ee53b1cde0c6cf82d41e85e069f5c1877dba79f42d8fd56528586946f85"
 metafile = true
 
 [[files]]
