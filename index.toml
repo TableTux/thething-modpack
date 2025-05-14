@@ -1286,11 +1286,6 @@ hash = "ca1deb2045278b9c0086c7daa276c1138ffb8f1877d164fcb9d1f11ac1fdcbef"
 metafile = true
 
 [[files]]
-file = "mods/visual-overhaul.pw.toml"
-hash = "509491e559046c720a32bc8d38d48ed6d14cf29378b6ec6083471dd99d790248"
-metafile = true
-
-[[files]]
 file = "mods/visuality-forge.pw.toml"
 hash = "753745ebdd476d1b75252027f8cbbbba7334a71c49f9803652a53f5af111232c"
 metafile = true
