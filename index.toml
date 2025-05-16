@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/eclipticseasons-common.toml"
+hash = "5767d3fca00deaf5acc4a49f440ac59b958d329f1bb65973d33952dc8763811d"
+
+[[files]]
 file = "config/ftbquests/quests/chapter_groups.snbt"
 hash = "78b3ab3cbb356c28b6b32df65c23634791bda59b3269d90b9d89d9c6d5251d9f"
 
