@@ -925,11 +925,6 @@ hash = "6f0dcbcffd4400c6cef07f1eeb48cdc25bac0fa01270936feab4c549aff4738e"
 metafile = true
 
 [[files]]
-file = "mods/modernfix.pw.toml"
-hash = "6d7ed1de895d198b2c4959b8f28f63cdcd68d24fda159be860db0c692dc54a3b"
-metafile = true
-
-[[files]]
 file = "mods/mods-optimizer.pw.toml"
 hash = "08fb98e6f87f26ba667848a176ee1a4f4ad881dfc916fee6ec33f08a2245bd6d"
 metafile = true
