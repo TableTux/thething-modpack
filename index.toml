@@ -589,6 +589,11 @@ hash = "de5ea0b6d6c303af3788a178996c39f46d260cd15a86121b1246b3591913d256"
 metafile = true
 
 [[files]]
+file = "mods/explosive-enhancement-forge.pw.toml"
+hash = "fc8948d1a8837b7a89a3b754335fd53086ba89c78af9c3d07fa899761c6a9e50"
+metafile = true
+
+[[files]]
 file = "mods/exposure-polaroid.pw.toml"
 hash = "5439368b0f433364f55da8ec0d55ec61f22f787b06610e46cf96dedd922f961f"
 metafile = true
