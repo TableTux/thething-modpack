@@ -126,6 +126,10 @@ file = "mods/Actual Fishing-1.21.1-1.0.1-NeoForge.jar"
 hash = "69f4e0b5c5e1c0c8144ce0f439f6e72215d1d7ca7c10faf4f5e06a9bb68589b8"
 
 [[files]]
+file = "mods/LuckPerms-NeoForge-5.4.164.jar"
+hash = "ced3b4ff8c7b3c1cef8ef5c0a89dc9620d095cde12e5990335f908accb3899be"
+
+[[files]]
 file = "mods/Structory_1.21.x_v1.3.10.jar"
 hash = "50669b8ad823cb5fe5c29ca7acb357b711e32068f29623e5a3e49b84cbfc0f47"
 
