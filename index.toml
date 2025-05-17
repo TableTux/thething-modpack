@@ -509,11 +509,6 @@ hash = "baa9316fae6748bc9b0f4ff7cb3019c7456519a1cf15ab1c169600bbb3af930e"
 metafile = true
 
 [[files]]
-file = "mods/curios.pw.toml"
-hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
-metafile = true
-
-[[files]]
 file = "mods/dismount-entity.pw.toml"
 hash = "3a191ec81bcc9d5e55193d4836abbd8d3b74ca2f391c9f6e73237ab01880e482"
 metafile = true
