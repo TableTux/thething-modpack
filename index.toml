@@ -1309,6 +1309,10 @@ hash = "ca1deb2045278b9c0086c7daa276c1138ffb8f1877d164fcb9d1f11ac1fdcbef"
 metafile = true
 
 [[files]]
+file = "mods/wakes-0.4.2+1.21.4.jar"
+hash = "14024b586ddee60676dc9963febaeadf864cc5bf56a092013f274287418d5330"
+
+[[files]]
 file = "mods/waterframes.pw.toml"
 hash = "65724a6cee7d20af78d80cc351bc6f600862adb5cf357be7e7ccc6f334fb7913"
 metafile = true
