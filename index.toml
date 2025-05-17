@@ -363,16 +363,6 @@ hash = "d362a013bef0c4e8ade6bf77e97478833902210cc70ad7d133aece3f1c3e37a6"
 metafile = true
 
 [[files]]
-file = "mods/connector.pw.toml"
-hash = "9f920c5f1df2577cf374285e4aad4f2982a30ea2a3da1cf7ddaf25e04b3a2e31"
-metafile = true
-
-[[files]]
-file = "mods/countereds-settlement-roads.pw.toml"
-hash = "f6d3195469e09e9d1d700658ca478bf3a2ce22186c82c0fb2a4a7237c1f0d4b6"
-metafile = true
-
-[[files]]
 file = "mods/crafting-on-a-stick.pw.toml"
 hash = "d69ef8c4975dbafb2703abfd81932e21dd9266ab5640a07f8563ffed1caf243b"
 metafile = true
@@ -625,11 +615,6 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "05d96d5b17399f048469ff4b44451eb8d99cc7a2a075ff55718c397cb508b0c2"
-metafile = true
-
-[[files]]
-file = "mods/forgified-fabric-api.pw.toml"
-hash = "cb56550a957dd44cab4f9102aa588cd22421cd6b4099a03ac7b1b167c23c0f13"
 metafile = true
 
 [[files]]
