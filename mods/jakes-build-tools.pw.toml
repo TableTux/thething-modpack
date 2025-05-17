@@ -1,0 +1,13 @@
+name = "Jake's Build Tools"
+filename = "jakes-build-tools-2.0.1.2-(1.21.1).jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DosZdmJF/versions/kaLPG2nk/jakes-build-tools-2.0.1.2-%281.21.1%29.jar"
+hash-format = "sha512"
+hash = "dae86a99056e51c7ab32677b72125f0eb60afbf594fc38975ab70566a8526505ead46e1482d5733d1b4327824186a67a9d629e2043fef47a333f2c5f210d7b6b"
+
+[update]
+[update.modrinth]
+mod-id = "DosZdmJF"
+version = "kaLPG2nk"

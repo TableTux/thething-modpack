@@ -130,6 +130,11 @@ file = "mods/Structory_1.21.x_v1.3.10.jar"
 hash = "50669b8ad823cb5fe5c29ca7acb357b711e32068f29623e5a3e49b84cbfc0f47"
 
 [[files]]
+file = "mods/accessories-cc-layer.pw.toml"
+hash = "e5473d05c6e3d08c992cecbaa3cb66ed154655c0bfdbb90860b3e4f54a4623ec"
+metafile = true
+
+[[files]]
 file = "mods/accessories.pw.toml"
 hash = "03cb643aac647a345a61f69621c1100614bf2f680308ae14ff48547f4e053791"
 metafile = true
@@ -794,6 +799,11 @@ hash = "94f69e149cc3604cb09197de52e6d07731d56cca3d10388ccb9dbfe8b36ee76e"
 metafile = true
 
 [[files]]
+file = "mods/jakes-build-tools.pw.toml"
+hash = "c32dab194a2f53f00edf46df7b7719030252a067811b75a0476091c7410fbe80"
+metafile = true
+
+[[files]]
 file = "mods/jamlib.pw.toml"
 hash = "888492de9de2384ae9b0b427624be6b004bc5882176d2c71d05d948d06cdb826"
 metafile = true
@@ -916,11 +926,6 @@ metafile = true
 [[files]]
 file = "mods/minecolonies.pw.toml"
 hash = "c3d1b07d4d48be61d1e1851fa28e9e3dae9ed4bbbc96dbfc47096e670d605fb4"
-metafile = true
-
-[[files]]
-file = "mods/mini-mob-trophy.pw.toml"
-hash = "7fc45370931e1a49f596c9633dc573f00e3d4713c27c72bff0a5eb20e6b65a0d"
 metafile = true
 
 [[files]]
