@@ -130,16 +130,6 @@ file = "mods/Structory_1.21.x_v1.3.10.jar"
 hash = "50669b8ad823cb5fe5c29ca7acb357b711e32068f29623e5a3e49b84cbfc0f47"
 
 [[files]]
-file = "mods/accessories-cc-layer.pw.toml"
-hash = "e5473d05c6e3d08c992cecbaa3cb66ed154655c0bfdbb90860b3e4f54a4623ec"
-metafile = true
-
-[[files]]
-file = "mods/accessories.pw.toml"
-hash = "03cb643aac647a345a61f69621c1100614bf2f680308ae14ff48547f4e053791"
-metafile = true
-
-[[files]]
 file = "mods/advancedae.pw.toml"
 hash = "da0bc30581b206aee85540014b8c498e88cdd4a63ae24eee7c968ef1fc5adb5a"
 metafile = true
@@ -511,6 +501,11 @@ metafile = true
 [[files]]
 file = "mods/creativecore.pw.toml"
 hash = "baa9316fae6748bc9b0f4ff7cb3019c7456519a1cf15ab1c169600bbb3af930e"
+metafile = true
+
+[[files]]
+file = "mods/curios.pw.toml"
+hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
 metafile = true
 
 [[files]]
