@@ -130,6 +130,11 @@ file = "mods/Structory_1.21.x_v1.3.10.jar"
 hash = "50669b8ad823cb5fe5c29ca7acb357b711e32068f29623e5a3e49b84cbfc0f47"
 
 [[files]]
+file = "mods/accessories.pw.toml"
+hash = "03cb643aac647a345a61f69621c1100614bf2f680308ae14ff48547f4e053791"
+metafile = true
+
+[[files]]
 file = "mods/advancedae.pw.toml"
 hash = "da0bc30581b206aee85540014b8c498e88cdd4a63ae24eee7c968ef1fc5adb5a"
 metafile = true
