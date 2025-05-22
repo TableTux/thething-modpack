@@ -135,7 +135,7 @@ hash = "50669b8ad823cb5fe5c29ca7acb357b711e32068f29623e5a3e49b84cbfc0f47"
 
 [[files]]
 file = "mods/accessories.pw.toml"
-hash = "03cb643aac647a345a61f69621c1100614bf2f680308ae14ff48547f4e053791"
+hash = "ce5d0cd5986126c23dc35c89a6d2124751071693c034afc3799b4f633466997f"
 metafile = true
 
 [[files]]
@@ -250,7 +250,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "146dd7165c696bfa10cd8e6fa90dd5b2578244ecd35e041557b76b0cff2d0fa6"
+hash = "5be6142a7064df1e96149f505f4474c06b88e392629d6bc5552b5b2da98c8ace"
 metafile = true
 
 [[files]]
@@ -260,7 +260,7 @@ metafile = true
 
 [[files]]
 file = "mods/bens-sharks.pw.toml"
-hash = "e771c97cbeeade3caeacd3c607fe335db8f549fe51332ede63ef53f4688f6ef3"
+hash = "4455b4d54333518d2dda9f59a1ebf962d320b87806a4f558cf5b8a9007fd18c8"
 metafile = true
 
 [[files]]
@@ -280,7 +280,7 @@ metafile = true
 
 [[files]]
 file = "mods/blockui.pw.toml"
-hash = "f4015f21ab6f4c3dacbf58427c1216a01dd497dce7334ae427b41340690b6b5b"
+hash = "94aa3054f3f94ecd805079a721ff7f41ded9f1b739a303c130f98669a4deab14"
 metafile = true
 
 [[files]]
@@ -324,7 +324,7 @@ metafile = true
 
 [[files]]
 file = "mods/choicetheorems-overhauled-village.pw.toml"
-hash = "b63ad9ffe3fa95704de9afdc178db686d5f039dc6550b90d6201c6fb1ed130ff"
+hash = "a420a29256413ef0b90d15f6c8b440b5309a4afc4c1aad92b80c4dd9a14786ba"
 metafile = true
 
 [[files]]
@@ -389,7 +389,12 @@ metafile = true
 
 [[files]]
 file = "mods/create-central-kitchen.pw.toml"
-hash = "c63270ea90901dbb5c515ad2ca574e3d390fea86c22c239e30da919625be0741"
+hash = "a75cc9645368acbba1513db4558b1e281c7eea5d77246fb232a2df55b96b09a6"
+metafile = true
+
+[[files]]
+file = "mods/create-connected.pw.toml"
+hash = "57a32028d4bfb72744f5c394d1c30159ff4ee8652155a89b6c4208ffc2de38ef"
 metafile = true
 
 [[files]]
@@ -414,7 +419,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-dragons-plus.pw.toml"
-hash = "a003f242af42201fc9ff0df93004424bca32955e3bb870a302ea585f83fcc657"
+hash = "7311050b0232214f32999a6eb3e75dc64de40ea1962bbb166f3e5499495db352"
 metafile = true
 
 [[files]]
@@ -429,12 +434,12 @@ metafile = true
 
 [[files]]
 file = "mods/create-enchantment-industry.pw.toml"
-hash = "2f7f7df8c9328e0885ad4447f557ed5d975c6aa704af22633ac8e4c39a519e9d"
+hash = "60231e01fc1a64f3f0b155738bf5f56e9cb0f84d930b04aac83858357c4deaaf"
 metafile = true
 
 [[files]]
 file = "mods/create-framed.pw.toml"
-hash = "bed535a9a5636585ef25b31038ebdb6cad1967e4f1e1de8bcb773bc6c569ad2a"
+hash = "2a66bc07716f53ff5ca63c5d4e6947cbd56210212183339b69cf7af8bf056b75"
 metafile = true
 
 [[files]]
@@ -459,7 +464,12 @@ metafile = true
 
 [[files]]
 file = "mods/create-power-loader.pw.toml"
-hash = "3045c7d7d135212a8ba8b9cce54cc794acb088bf42d5bb6e259d3a0974ec945c"
+hash = "ee76dbe108ebf5cf68047f60ecabee5aeb029015253dc82c007b941a6d6cfcdf"
+metafile = true
+
+[[files]]
+file = "mods/create-qol.pw.toml"
+hash = "7812c76dc36531286c56c6cd712f27ee0142059cb175bdceadba95055a2956bd"
 metafile = true
 
 [[files]]
@@ -499,7 +509,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "baa9316fae6748bc9b0f4ff7cb3019c7456519a1cf15ab1c169600bbb3af930e"
+hash = "b8c42b048fde7533ade848f5e4fba86f50fae57c760c932fd8de6daece0a598a"
 metafile = true
 
 [[files]]
@@ -539,7 +549,7 @@ metafile = true
 
 [[files]]
 file = "mods/ecliptic-seasons.pw.toml"
-hash = "5eef926168a0b07069f6770ed7b04825ac92ba86375bbd6fa5d314d60f49a385"
+hash = "2c67f67b8603d9a5ee183df5fb7894b804d206bfe1dd246ab41b16158ed96a28"
 metafile = true
 
 [[files]]
@@ -594,7 +604,7 @@ metafile = true
 
 [[files]]
 file = "mods/exposure.pw.toml"
-hash = "7bebff0ec65bcef0fc44358719d3b9ccc6e0d658ea49c07b24c3d9416e4576f2"
+hash = "4454016cff6e62a4fe94724e319591634e8b3f94682b97054e9ef9c9060799a0"
 metafile = true
 
 [[files]]
@@ -799,7 +809,7 @@ metafile = true
 
 [[files]]
 file = "mods/jakes-build-tools.pw.toml"
-hash = "c32dab194a2f53f00edf46df7b7719030252a067811b75a0476091c7410fbe80"
+hash = "b55aeca073392483d4669aa564ed0ab0ee82067b752743b62c6c77f00ecc4332"
 metafile = true
 
 [[files]]
@@ -819,7 +829,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "311006c1e834be728b2096f89b813a85e3ad9b214086ba79de72c012bf4c3a65"
+hash = "ae66866cd5017cb9e2fb7d45718cfcf041f3aa93484ec4a5cd3fdd894651e53a"
 metafile = true
 
 [[files]]
@@ -869,7 +879,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "3d16c3fe2a28fe8d2fc7b7e93b4f3955e81d29f07c1c0cff10dfc91a19cd7d50"
+hash = "4fb1a31fed2b085e5f798c2a199fec357490f1da72451a612334776111d80d15"
 metafile = true
 
 [[files]]
@@ -919,7 +929,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "c3d1b07d4d48be61d1e1851fa28e9e3dae9ed4bbbc96dbfc47096e670d605fb4"
+hash = "38d730bb5b97728aa45340362ba78fc44886d7efb7c1fce92282d9b150ed82d8"
 metafile = true
 
 [[files]]
@@ -1079,7 +1089,7 @@ metafile = true
 
 [[files]]
 file = "mods/prickle.pw.toml"
-hash = "7750bf1c0a66c843a06f07bd0ed7157d14ff0958e19426aadaed6ecf3034af65"
+hash = "a69a8ba0d9e52361b1853cf59b2cf2a38b668b1d508a565f315f2fa30407f546"
 metafile = true
 
 [[files]]
@@ -1184,7 +1194,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "fb40bab0573c82735f83e4dba72dc12f6f79933b997e1e19bc8e6345d4959842"
+hash = "690b7aeff798f99fa3600efa5824eeea97c43c841b6eba4263d6c0607a510d54"
 metafile = true
 
 [[files]]
@@ -1204,7 +1214,7 @@ metafile = true
 
 [[files]]
 file = "mods/structurize.pw.toml"
-hash = "fed70922aa664ae4fa9a0cdee229c5f267898e644ec9de4fdd00f55b8ea2a8fa"
+hash = "bf4ec5fa69bffbdb165e31234430cd56fd9946d1f8cb060c7a2dc3a187e65520"
 metafile = true
 
 [[files]]
@@ -1259,7 +1269,7 @@ metafile = true
 
 [[files]]
 file = "mods/toms-storage.pw.toml"
-hash = "33eba62d133ca3ba2113c1cc8a100667ad81c46d5efb9dbb1fdf8f0f57be4393"
+hash = "89359f163695e19f120d27fad33f5e45c8958c306abba3033a430fc9cada3ecf"
 metafile = true
 
 [[files]]
