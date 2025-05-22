@@ -873,9 +873,8 @@ hash = "dad3fae621fe1f37422cd2bd527c237da93e79b72128a27211bbed1c2f7f7b73"
 metafile = true
 
 [[files]]
-file = "mods/lithostitched.pw.toml"
-hash = "6496a3805f18d6c3ffb12e11848cd2e844ba09fb0da4446d7d1faa9b4df851dd"
-metafile = true
+file = "mods/lithostitched-neoforge-1.21.1-1.4.7.jar"
+hash = "2ec942d5594667eb7e7d94246b1902647971612fd81b8e6d23ef84667766b23d"
 
 [[files]]
 file = "mods/lmd.pw.toml"
