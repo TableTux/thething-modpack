@@ -544,7 +544,7 @@ metafile = true
 
 [[files]]
 file = "mods/ecliptic-seasons.pw.toml"
-hash = "2c67f67b8603d9a5ee183df5fb7894b804d206bfe1dd246ab41b16158ed96a28"
+hash = "5eef926168a0b07069f6770ed7b04825ac92ba86375bbd6fa5d314d60f49a385"
 metafile = true
 
 [[files]]
