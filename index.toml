@@ -609,6 +609,11 @@ hash = "4454016cff6e62a4fe94724e319591634e8b3f94682b97054e9ef9c9060799a0"
 metafile = true
 
 [[files]]
+file = "mods/extra-gauges.pw.toml"
+hash = "29410995b5fe0a2d0d43610abb7d73236e7e382f6326b4ed71a394ac146ddc79"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "867a029a8bed75bea2fb02e5186730db46ec01f970d0bdb266c6897074c16177"
 metafile = true
