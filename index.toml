@@ -139,6 +139,11 @@ hash = "ce5d0cd5986126c23dc35c89a6d2124751071693c034afc3799b4f633466997f"
 metafile = true
 
 [[files]]
+file = "mods/advanced-chimneys.pw.toml"
+hash = "b2f53ee091c77bbdaa6b42bec00a5eef9391567c56837498e1ab8e798bf1ae05"
+metafile = true
+
+[[files]]
 file = "mods/advancedae.pw.toml"
 hash = "da0bc30581b206aee85540014b8c498e88cdd4a63ae24eee7c968ef1fc5adb5a"
 metafile = true
@@ -634,6 +639,11 @@ hash = "05d96d5b17399f048469ff4b44451eb8d99cc7a2a075ff55718c397cb508b0c2"
 metafile = true
 
 [[files]]
+file = "mods/forgeendertech.pw.toml"
+hash = "ff52ca3814a15c1aa7c940bc0f965affea0279691816321945df63137cc7f810"
+metafile = true
+
+[[files]]
 file = "mods/framedblocks.pw.toml"
 hash = "f964533763c23336e55c4d304e1ce9848e25362688014622d85c5662dec3df94"
 metafile = true
@@ -1040,6 +1050,11 @@ metafile = true
 [[files]]
 file = "mods/particle-interactions.pw.toml"
 hash = "12fa04dfc69d95c522b43e3d5a3e0d2439c332f51d87aea9c214631dd607a7ce"
+metafile = true
+
+[[files]]
+file = "mods/particular-reforged.pw.toml"
+hash = "5c4adee65b88f14b726608450deb973cab64912bd1ea81489dbe9b2f509b0f8e"
 metafile = true
 
 [[files]]
