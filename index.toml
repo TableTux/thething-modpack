@@ -295,12 +295,12 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
-hash = "71434caad33d734bcafdb976be3f7c6e90cea1ac13c9ebb292d1b96562b2588b"
+hash = "6cb44b274e41912c42a9a3ba9705b8862767298c3c27fb3a4c863295282c2fec"
 metafile = true
 
 [[files]]
 file = "mods/bucketlib.pw.toml"
-hash = "82dd00b86d2b088908060727124fca8834dab847d7d7b7fe4168f2fd1fc73435"
+hash = "c897ec494184a398ce574afd512b76a832517a75386e7f3237c4f0cae25b9b3a"
 metafile = true
 
 [[files]]
@@ -330,7 +330,7 @@ metafile = true
 
 [[files]]
 file = "mods/choicetheorems-overhauled-village.pw.toml"
-hash = "b63ad9ffe3fa95704de9afdc178db686d5f039dc6550b90d6201c6fb1ed130ff"
+hash = "a420a29256413ef0b90d15f6c8b440b5309a4afc4c1aad92b80c4dd9a14786ba"
 metafile = true
 
 [[files]]
@@ -360,7 +360,7 @@ metafile = true
 
 [[files]]
 file = "mods/comforts.pw.toml"
-hash = "9a31384e891fd38ae4cdc606612eb6017cdc436cef194c22e58c36d8c942db90"
+hash = "5e0a875282f4abed66a2cccf7929488ebb5e88447d2bb3369e8ddc728fc66fc0"
 metafile = true
 
 [[files]]
@@ -555,12 +555,12 @@ metafile = true
 
 [[files]]
 file = "mods/ecliptic-seasons.pw.toml"
-hash = "5eef926168a0b07069f6770ed7b04825ac92ba86375bbd6fa5d314d60f49a385"
+hash = "cdff255a8938fe552b68ce0d1a879a9b769ab23e1fe44d25a0f096801ca8b573"
 metafile = true
 
 [[files]]
 file = "mods/elytra-trims.pw.toml"
-hash = "e3a7aed56a1b54d7977cb0205011a01743e262d07946d8c6aaea3b3718a68791"
+hash = "07ea5950240bde3452c93be59647a662dd790692e5eeb5d3c4266910781d6d6d"
 metafile = true
 
 [[files]]
@@ -605,12 +605,12 @@ metafile = true
 
 [[files]]
 file = "mods/exposure-polaroid.pw.toml"
-hash = "5439368b0f433364f55da8ec0d55ec61f22f787b06610e46cf96dedd922f961f"
+hash = "87908da171a79c74062db88cd9f2a7283ab52eec1cf4194af415d34105c5ef9a"
 metafile = true
 
 [[files]]
 file = "mods/exposure.pw.toml"
-hash = "4454016cff6e62a4fe94724e319591634e8b3f94682b97054e9ef9c9060799a0"
+hash = "ed51d42b512216a7790cbb0550a4957e646e14da9a6ee32ecd15d174be818e6d"
 metafile = true
 
 [[files]]
@@ -620,7 +620,7 @@ metafile = true
 
 [[files]]
 file = "mods/extra-gauges.pw.toml"
-hash = "29410995b5fe0a2d0d43610abb7d73236e7e382f6326b4ed71a394ac146ddc79"
+hash = "573575b0b4202963b4bc06ec71f5447ae568fe89291bfb6dbd0717cd0e047259"
 metafile = true
 
 [[files]]
@@ -710,7 +710,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "8e5da360e375437a904021af1e7eda56fa14f1d68af363f3b6217763c63d3544"
+hash = "37a1086360571a34cfadd0088cd331b405857c942b5611caafebc27fb8ea1a42"
 metafile = true
 
 [[files]]
@@ -750,7 +750,7 @@ metafile = true
 
 [[files]]
 file = "mods/horseman.pw.toml"
-hash = "94aee82feb6a110282f07a88138a04c224e88c96e6048a40a01305a0b73add72"
+hash = "894b7dca5599821f70569cc3786778cae68bbcde3807ab2c17610336969051c2"
 metafile = true
 
 [[files]]
@@ -845,7 +845,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "610b4bddf480c8630796ba04ff8f0094b58d12cf41cc292993dc65a83c2ae4b8"
+hash = "1cfdc47449a50cf52352a910cedb0874b945774ea7630e6aaff2e0c1e0fe8434"
 metafile = true
 
 [[files]]
@@ -1059,7 +1059,7 @@ metafile = true
 
 [[files]]
 file = "mods/particular-reforged.pw.toml"
-hash = "3aa85eda0dc68828c5fa6e539d7e2093f5e9b1262506ebebab0f7368e25528c6"
+hash = "83241777f1fb430f1c36fabe0c45ae9050af3b6e959a544eacc1f491dd5bdffd"
 metafile = true
 
 [[files]]
@@ -1214,12 +1214,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "71f50f5be1b94408ab598b5714c6b89a2b4f76b53d8877143d8a136684cba4b4"
+hash = "3b5081bab7e2c349f65b6d212a25ed8c44f5923a9903aea653e2cdc3333b8e78"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "690b7aeff798f99fa3600efa5824eeea97c43c841b6eba4263d6c0607a510d54"
+hash = "bbc7494636499e59dc94213a45bbe7709f17329a6b98b51a357ca5037b7f29d1"
 metafile = true
 
 [[files]]
@@ -1319,7 +1319,7 @@ metafile = true
 
 [[files]]
 file = "mods/unionlib.pw.toml"
-hash = "204482033f21dfcc70008e5be93630711a3c1c3626f0ca587138f773197910e6"
+hash = "09483fc98572ff8b46dd8ed3fc7ca849b18dd0a38a0a49d0b1b02b64c8201b2e"
 metafile = true
 
 [[files]]
