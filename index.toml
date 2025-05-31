@@ -260,7 +260,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "5be6142a7064df1e96149f505f4474c06b88e392629d6bc5552b5b2da98c8ace"
+hash = "9605764353450757f20e153abdcedf770b4affab703869724b17454d23a45039"
 metafile = true
 
 [[files]]
@@ -400,7 +400,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-connected.pw.toml"
-hash = "57a32028d4bfb72744f5c394d1c30159ff4ee8652155a89b6c4208ffc2de38ef"
+hash = "1c5df92ddd39de9c6752e45abb0a4be355ced98deed159a96e13ab12dba63b12"
 metafile = true
 
 [[files]]
@@ -416,6 +416,16 @@ metafile = true
 [[files]]
 file = "mods/create-deep-dark.pw.toml"
 hash = "c40e9a30bcd7bc7706166a20ce3009579e257840885509510e4a7ae3d82f6218"
+metafile = true
+
+[[files]]
+file = "mods/create-delivery-director.pw.toml"
+hash = "861e2bbfc6397ecdab115f9f39d0975e03c193032be9394260589da525d32cbc"
+metafile = true
+
+[[files]]
+file = "mods/create-design-n-decor.pw.toml"
+hash = "8d8c1d2270148b02ab4aa92275a55e879daf4fb9eab94750cf50c1d8b598e8d2"
 metafile = true
 
 [[files]]
@@ -450,7 +460,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-let-the-adventure-begin.pw.toml"
-hash = "0bd9f63d607ad6198a00a36a743ac64e0f57aa684acc5319a61382a819fd1ca6"
+hash = "4ae8235d933c724ddd66305d8d9b8a77e65f42bc22b477135de306138bb2351f"
 metafile = true
 
 [[files]]
@@ -496,6 +506,11 @@ metafile = true
 [[files]]
 file = "mods/create-sound-of-steam.pw.toml"
 hash = "51e59d0e689bd663de7b3ca38c53aea8664db9707f0814ac0f77d35584e08244"
+metafile = true
+
+[[files]]
+file = "mods/create-stock-bridge.pw.toml"
+hash = "9293bf6d4b52a44f6209a4f4023dfcc19a6507889faf81644140e1a9ec6ed220"
 metafile = true
 
 [[files]]
@@ -594,6 +609,11 @@ hash = "65cd00e90de065e99d13352fd5d8aa3bc28d062b9dc935cf1da914a2047b2208"
 metafile = true
 
 [[files]]
+file = "mods/escalated.pw.toml"
+hash = "0000f47bdfffab7f0a030230eb77014330fed2fb10e4b0ad3837ccf265622529"
+metafile = true
+
+[[files]]
 file = "mods/explorers-compass.pw.toml"
 hash = "de5ea0b6d6c303af3788a178996c39f46d260cd15a86121b1246b3591913d256"
 metafile = true
@@ -610,7 +630,7 @@ metafile = true
 
 [[files]]
 file = "mods/exposure.pw.toml"
-hash = "ed51d42b512216a7790cbb0550a4957e646e14da9a6ee32ecd15d174be818e6d"
+hash = "bbf36c5b02e5e1a84e018baaa611f0fd2b8df8c95effbd3ebfbd33afac340499"
 metafile = true
 
 [[files]]
@@ -625,7 +645,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
-hash = "867a029a8bed75bea2fb02e5186730db46ec01f970d0bdb266c6897074c16177"
+hash = "c4027b8071cc6dfc7f0d49e702a5e25b1e36841e50acba1e699f308be156b8f2"
 metafile = true
 
 [[files]]
@@ -690,7 +710,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-ultimine-forge.pw.toml"
-hash = "3820c5e6b19737c8440ed1f599367299694045abac139e3dfbed54ba0dd858ae"
+hash = "a02bf3da7e6f691dbf5c39542489450905d8c8236c5d494455ac47bb12b671a5"
 metafile = true
 
 [[files]]
@@ -845,7 +865,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "1cfdc47449a50cf52352a910cedb0874b945774ea7630e6aaff2e0c1e0fe8434"
+hash = "77668ebfdfc795d86c8b89ab8ab3139814383bb2a91a243682137ba59c479a65"
 metafile = true
 
 [[files]]
@@ -1024,7 +1044,7 @@ metafile = true
 
 [[files]]
 file = "mods/notenoughcrashes.pw.toml"
-hash = "72023e59251facb8737fb521e91148d10cc91f09e25c513314b1e0f39ea86d44"
+hash = "09ba6db54e6f13fafa1e12a9adcd83db9137617d631288579f520ab11b4bfe9a"
 metafile = true
 
 [[files]]
@@ -1059,7 +1079,7 @@ metafile = true
 
 [[files]]
 file = "mods/particular-reforged.pw.toml"
-hash = "83241777f1fb430f1c36fabe0c45ae9050af3b6e959a544eacc1f491dd5bdffd"
+hash = "101fa3b3994a18621f39eeb871c3279f12b9b3129781702dda3b52300dfad5c5"
 metafile = true
 
 [[files]]
@@ -1214,12 +1234,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "3b5081bab7e2c349f65b6d212a25ed8c44f5923a9903aea653e2cdc3333b8e78"
+hash = "f42387952e748d221163fbd5c56b4abb6694967de5cef5aaa35ba21cfe1b0416"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "bbc7494636499e59dc94213a45bbe7709f17329a6b98b51a357ca5037b7f29d1"
+hash = "7ae71e84bee179425c8b7b1dbab5e3f58957968d777338b5ecb2d04920189e0b"
 metafile = true
 
 [[files]]
@@ -1249,7 +1269,7 @@ metafile = true
 
 [[files]]
 file = "mods/subtle-effects.pw.toml"
-hash = "b02dd5510fc6ad9eb01df53a46bf6490022ec876c9a40858f5f4b2aae37fe53c"
+hash = "b87db837b282eadd0ddfcfaff38bee0413a6d333a38c714d8444ed3355a92f29"
 metafile = true
 
 [[files]]
@@ -1274,7 +1294,7 @@ metafile = true
 
 [[files]]
 file = "mods/tectonic.pw.toml"
-hash = "7b94f0b60ec6eb8507c78bcc88b6e51e6f9c37963bf388fa501acaf56b3714e0"
+hash = "b0bf15dd5f0d5ce70c26fbd76cb2a25731e06a15d9a488bd68bf2f5037aa334f"
 metafile = true
 
 [[files]]
@@ -1319,7 +1339,7 @@ metafile = true
 
 [[files]]
 file = "mods/unionlib.pw.toml"
-hash = "09483fc98572ff8b46dd8ed3fc7ca849b18dd0a38a0a49d0b1b02b64c8201b2e"
+hash = "1e3e5aaa2ed628ad040c180b6a0251c35c2f045d294a8ad28143c7c627b17538"
 metafile = true
 
 [[files]]
