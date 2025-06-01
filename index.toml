@@ -1426,8 +1426,3 @@ metafile = true
 file = "mods/yungs-better-witch-huts.pw.toml"
 hash = "9854b699d5a067c46ac99b1dedeeb529bff3fc18dd079e29b438c4cbf9725f68"
 metafile = true
-
-[[files]]
-file = "mods/zombietactics2.pw.toml"
-hash = "6a88a34197cb1fafa4b4bfc15ac69ecd67d305478c324ddaebb98df00601f2f2"
-metafile = true
