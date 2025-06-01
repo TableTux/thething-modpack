@@ -369,6 +369,11 @@ hash = "d362a013bef0c4e8ade6bf77e97478833902210cc70ad7d133aece3f1c3e37a6"
 metafile = true
 
 [[files]]
+file = "mods/copycats.pw.toml"
+hash = "1d609f597d90c582a01f360cc143ba5c5cd5d62a7336d8d5fd02ca50637f52fb"
+metafile = true
+
+[[files]]
 file = "mods/crafting-on-a-stick.pw.toml"
 hash = "d69ef8c4975dbafb2703abfd81932e21dd9266ab5640a07f8563ffed1caf243b"
 metafile = true
@@ -993,6 +998,11 @@ hash = "87e3acd7d3cdda6d8c99f26dafd871ba6057b6ca54650b43e6b91939069a91e5"
 metafile = true
 
 [[files]]
+file = "mods/more-create-burners.pw.toml"
+hash = "7ea18039dd66c57e4abdbc49b35c4a786ebabb39bda895df17f7e8d4b89b720c"
+metafile = true
+
+[[files]]
 file = "mods/more-immersive-wires.pw.toml"
 hash = "297e80d256a13c02f5903237bf3f1bdad054c1cbc07f2762e3e60c04a20697cd"
 metafile = true
@@ -1415,4 +1425,9 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-witch-huts.pw.toml"
 hash = "9854b699d5a067c46ac99b1dedeeb529bff3fc18dd079e29b438c4cbf9725f68"
+metafile = true
+
+[[files]]
+file = "mods/zombietactics2.pw.toml"
+hash = "6a88a34197cb1fafa4b4bfc15ac69ecd67d305478c324ddaebb98df00601f2f2"
 metafile = true

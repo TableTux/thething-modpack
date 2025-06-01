@@ -1,0 +1,13 @@
+name = "More Create Burners"
+filename = "moreburners-1.21.1-0.3.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/mhvWcWRc/versions/3nj4zGjS/moreburners-1.21.1-0.3.3.jar"
+hash-format = "sha512"
+hash = "fb829a8b6200781a148de339e94fc32408e603cfedaae140c387fc86d00fa575a39d2c43b0123963f64125d491eed10252a3faac08fccb37956e5c7d78cc2383"
+
+[update]
+[update.modrinth]
+mod-id = "mhvWcWRc"
+version = "3nj4zGjS"
